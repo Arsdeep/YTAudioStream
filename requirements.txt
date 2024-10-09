@@ -1,0 +1,2 @@
+Django>=3.2,<4.0  # Specify the version of Django you are using
+yt-dlp>=0.2.0     # YouTube downloader library
